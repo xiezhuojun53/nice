@@ -1,0 +1,53 @@
+header{margin: 15px 0;}
+.recommend{width: 1000px;height: 70px;border: 1px solid #ccc;background: #fff;}
+.recommend .r_left{width: 150px;height: 55px;border-right: 1px solid #ccc;float: left;margin-top: 10px;}
+.recommend .r_left img{display: inline-block;float: left;padding-left: 15px;padding-top: 5px;}
+.recommend .r_left span{padding-left: 10px;line-height:55px ;}
+.recommend .r_center {width: 602px;height: 70px;margin-top: 10px;float: left;}
+.recommend .r_center li{float: left;padding-right: 15px;}
+.recommend .r_center li a{color: #333;padding: 0 6px;height: 24px;line-height: 24px;font-size: 14px;display: block;}
+.recommend .r_center li .bg{background: #333;color: #fff;}
+.recommend .r_center li a:hover{background: #333;color: #fff;}
+.recommend .r_right{float: left;margin-top: 20px;}
+.recommend .r_right span{display: inline-block;width: 80px;height: 30px;border-radius: 5px;font-size: 14px;color: #fff;line-height: 30px;padding-left: 30px;}
+.recommend .r_right .qq{background:#7a1607 url(../images/qq.png) no-repeat left center;}
+.recommend .r_right .weixin{background:#7a1607 url(../images/weixin.png) no-repeat left center;}
+.jianjie{width: 1000px;height: 320px; border:1px solid #CCCCCC ;border-top: 1px solid #AC1700;}
+.jianjie .titel{width: 98%;height: 46px;border-bottom:1px solid #ccc ;margin: auto;}
+.jianjie .titel p{display: block;width: 106px;line-height: 46px;border-bottom: 1px solid #7A1607;float: left;}
+.jianjie .titel .pst{float: right;font-size: 12px;padding-top: 15px;margin-right: 10px;}
+.jianjie .titel .pst a{color: #555;}
+.jianjie img{float: left;padding: 15px;}
+.jianjie .txt{float: left;padding-top: 15px;}
+.jianjie .txt .txt_top {width: 570px;height: 128px;border-bottom: 1px dotted #ccc;}
+.jianjie .txt .txt_top p{font-size: 12px;line-height: 23px;padding-top: 10px;}
+.jianjie .txt .txt_bot ul{float: left;font-size: 12px;line-height: 28px;}
+.jianjie .txt .txt_bot .pd{padding-right: 60px;}
+.honor {width: 1000px;height: 295px;background: linear-gradient(to bottom,#f6f6f6,#fff);border: 1px solid #ccc;position: relative;margin-top: 20px ;}
+
+.honor .titel{width: 98%;height: 46px;border-bottom:1px solid #ccc ;margin: auto;}
+.honor .titel p{display: block;width: 106px;line-height: 46px;border-bottom: 1px solid #7A1607;float: left;}
+.honor .titel .more{float: right;padding-right: 30px;background: url(../images/mor_03.jpg) no-repeat right;font-size: 12px;color: #999;margin-top: 15px;cursor: pointer;}
+.honor .txt{text-indent: 2em;font-size: 12px;position: absolute;left: 20px;bottom: 30px;width: 940px;}
+
+.dongtai img{float: right;padding-left: 0;}
+.dongtai .txt{float: left;padding-left: 15px;width: 600px;}
+.dongtai .more{float: right;padding-right: 30px;background: url(../images/mor_03.jpg) no-repeat right;font-size: 12px;color: #999;margin-top: 15px;cursor: pointer;}
+
+.expert{width: 1000px;background:linear-gradient(to bottom,#f6f6f6 30px,#fff );height: 340px;border: 1px solid #CCCCCC;margin-top: 15px;position: relative;}
+.expert .expert_title{height: 48px;border-bottom:1px solid #ccc ;width: 966px;margin: auto;}
+.expert .expert_title h4{line-height: 48px;display: block;border-bottom: 1px solid #7A1607;width: 115px;float: left;}
+.expert .expert_title .expert_btn{float: right;width: 50px;padding-top: 15px;}
+.expert .expert_title .btn,.btn2{background: #7A1607;color: #fff;margin-right: 15px;width: 15px;height: 15px;line-height: 15px;text-align: center;display: inline-block;}
+.expert .expert_title .btn{float: left;}
+.expert .expert_title .btn2{float: right;margin-top: -15px;}
+.expert .experts{width:966px ;margin: auto;} 
+.expert .experts li{float: left;width: 160px;padding-right: 35px;}
+.expert .experts .no{padding-right: 0;}
+.expert .experts li h5{padding-top: 5px;}
+.expert .experts li p{font-size: 14px;margin-top: 10px;}
+.expert .experts li span{font-size: 14px;display: block;float: left;width: 70px;height: 23px;background: #7A1607;color: #fff;text-align: center;line-height: 23px;margin-top: 15px;}
+.expert .experts li .make{background: #666666;margin-right: 10px;}
+
+.swiper-container2{width: 960px;overflow: hidden;margin: 10px 30px;}
+.swiper-container2 .swiper-button-prev2{background-image: url(../images/left-btn.png)!important;}
